@@ -8,23 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+***Hello!*** I am a data scientist and A.I. researcher persuing my Ph.D. at Ryerson University. My research topics are mostly about graph representaion learning, information retrieval and natural language processing.
+I am also an member of [Labs for Systems, Software and Semantics at Ryerson University](https://ls3.rnet.ryerson.ca/).
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org). -->
+I earned my M.Sc in Computer Engineering and B.Sc. in Electrical Engineering from Amirkabir University of Techonology. You can find my latest list of projects [here](projects.md).
+
+
