@@ -3,38 +3,51 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+You can find full list of teaching assistant roles in following:
+
+## Toronto Metropolitan University
+- COE 628: Operating Systems (Winter 2023)
+    - [Syllabus](https://www.ecb.torontomu.ca/undergraduate/outlines/COE628_course_outline.pdf)
+- ITM 618: Business Intelligence and Analytics (Fall 2022)
+    - [Syllabus](https://www.torontomu.ca/content/dam/information-technology-management/course-outlines/ITM618.pdf)
+- COE 628: Operating Systems (Winter 2022)
+    - [Syllabus](https://www.ecb.torontomu.ca/undergraduate/outlines/COE628_course_outline.pdf)
+- ITM 618: Business Intelligence and Analytics (Fall 2021)
+    - [Syllabus](https://www.torontomu.ca/content/dam/information-technology-management/)
+- COE 718: Embedded Systems Design (Fall 2021)
+    - [Syllabus](https://www.ecb.torontomu.ca/undergraduate/outlines/COE718_course_outline.pdf)
+- ITM 500: Data and Information Management (Winter 2021)
+    - [Syllabus](https://www.torontomu.ca/information-technology-management/course-outlines/ITM500.pdf)
+- COE 628: Operating Systems (Winter 2021)
+    - [Syllabus](https://www.ecb.torontomu.ca/undergraduate/outlines/COE628_course_outline.pdf)
+- ITM 618: Business Intelligence and Analytics (Fall 2020)
+    - [Syllabus](https://www.torontomu.ca/content/dam/information-technology-management/course-outlines/ITM618.pdf)
+- COE 718: Embedded Systems Design (Fall 2020)
+    - [Syllabus](https://www.ecb.torontomu.ca/undergraduate/outlines/COE718_course_outline.pdf)
+- COE 768: Computer Networks (Summer 2020)
+    - [Syllabus](https://www.ecb.torontomu.ca/undergraduate/outlines/COE768_course_outline.pdf)
+- COE 692: Software Design and Architecture (Summer 2020)
+    - [Syllabus](https://www.torontomu.ca/calendar/2022-2023/courses/computer-engineering/COE/692/)
+- ITM 760: Big Data Analytics (Winter 2020)
+    - [Syllabus](https://www.torontomu.ca/content/dam/information-technology-management/course-outlines/ITM760.pdf)
+- ITM 500: Data and Information Management (Winter 2020)
+    - [Syllabus](https://www.torontomu.ca/information-technology-management/course-outlines/ITM500.pdf)
+- COE 628: Operating Systems (Winter 2020)
+    - [Syllabus](https://www.ecb.torontomu.ca/undergraduate/outlines/COE628_course_outline.pdf)
+- COE 538: Microprocessor Systems (Fall 2019)
+    - [Syllabus](https://www.ecb.torontomu.ca/~courses/coe538/)
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+## Amirkabir University of Technology
+- Microprocessor systems & interfaces (Fall 2016, Fall 2017)
+    <!-- - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf) -->
+- Computer Programming (Fall 2016)
+    <!-- - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf) -->
+- Data Communication (Fall 2016)
+    <!-- - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf) -->
+- Internet of Things (Spring 2015)
+    <!-- - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf) -->
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
-
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+## AUT Skill Center Summer Program
+- Python Programming Course (2016)
+    <!-- - [Syllabus](/files/pdf/teaching/bayes2017.pdf) -->
