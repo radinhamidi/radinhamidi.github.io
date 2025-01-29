@@ -29,6 +29,26 @@ As one of my two research agendas involves improving the tools we use to study p
 [![Python versions](https://img.shields.io/pypi/pyversions/roksana.svg)](https://pypi.org/project/roksana/)
 
 
+[Roksana](https://roksana.ls3.rnet.torontomu.ca) is a powerful Python library for graph-based keyword search using Graph Neural Networks (GNNs). It provides multiple search methods, including:
+
+- **GCN-based Search**: Uses Graph Convolutional Networks (GCN) for graph-based retrieval.
+- **GAT-based Search**: Leverages Graph Attention Networks (GAT) to refine search rankings.
+- **SAGE-based Search**: Implements GraphSAGE for scalable node embedding generation.
+
+Additionally, Roksana supports **adversarial attacks** to analyze the robustness of search models, such as:
+- **Degree-based attacks**: Removing high-degree nodes' edges to affect rankings.
+- **PageRank attacks**: Selectively removing edges based on PageRank scores.
+- **Custom attack strategies**: Users can define their own attack mechanisms.
+
+### Installation
+
+To install Roksana, use:
+
+```sh
+pip install roksana
+```
+
+Ready to get started? [Install PyDHNet from Roksana](https://pypi.org/project/ROKSANA/) or explore the source code and examples on [GitHub](https://github.com/radinhamidi/roksana).
 
 
 # PyDHNet
