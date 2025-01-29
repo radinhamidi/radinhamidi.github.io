@@ -13,6 +13,7 @@ The core of the IDIO is to provide the means for researchers to tackle evidence-
 You can find project profile here: [https://www.torontomu.ca/bridging-divides/research/research-projects/citizenship-and-participation/observatory-on-immigration-discourses/](https://www.torontomu.ca/bridging-divides/research/research-projects/citizenship-and-participation/observatory-on-immigration-discourses/)
 
 Visit project website here: [https://observatory.ls3.rnet.torontomu.ca/](https://observatory.ls3.rnet.torontomu.ca/)
+
 <br/> *<span style="color:green;">Keywords:</span> Information Retrieval, Graph Representation Learning, Generative AI Models, Large Language Models*
 <br/>
 
@@ -24,7 +25,8 @@ The code and supporting text for the AI outputs will be transparently documented
 Our protocol is registered and located on the Open Science Framework at [https://osf.io/nbcta/](https://osf.io/nbcta/)
 
 Visit project website here: [https://wisest.ls3.rnet.torontomu.ca/](https://wisest.ls3.rnet.torontomu.ca/)
-<br/> *<span style="color:green;">Keywords:</span> Natural Language Processing, Systematic Review Analysis*
+
+<br/> *<span style="color:green;">Keywords:</span>  Systematic Review Analysis, Natural Language Processing*
 <br/>
 
 ## Heterogeneous Graph Representation Learning
@@ -39,7 +41,7 @@ The focus of this project is on the composition of teams of experts from a colla
 
 ## PyTFL Project
 Supervising the PyTFL project, an open-source end-to-end framework for graph search using neural networks. This framework uses the Team Formation problem as a case study to search the graph for a potential subgraph that addresses a given query. Different functionalities including data preparation, neural network models, training/testing pipelines, various benchmarks and fairness analysis are part of this toolkit. Along with the development, my role included supervising an undergrad student during the implementation.
-<br/>[Labs for Systems, Software and Semantics, Ryerson University](https://ls3.rnet.ryerson.ca/)
+<br/>[Labs for Systems, Software and Semantics, Toronto Metropolitan University](https://ls3.rnet.torontomu.ca/)
 <br/> *<span style="color:green;">Keywords:</span> Team Formation, Graph Search, NLP, Toolkit*
 <br/>
 
