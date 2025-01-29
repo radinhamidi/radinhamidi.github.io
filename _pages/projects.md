@@ -8,13 +8,23 @@ redirect_from:
 ---
 
 ## Observatory on Immigration Discourses (IDIO)
-This project tends to develop new neural-based models for heterogeneous graph representation learning. For instance, proposed neural architectures are able to perform downstream tasks on dynamic heterogeneous graphs, or to perform subgraph mining in heterogeneous graphs. The findings from this research project are published in top-tier conferences, e.g. CIKM'22, PVLDB'23.
-<br/> *<span style="color:green;">Keywords:</span> Graph Representation Learning, Graph Search, Team Discovery, Dynamic Heterogenous Graph*
+The core of the IDIO is to provide the means for researchers to tackle evidence-based, data-driven research questions. Spanning the full length of the Bridging Divides program, this projects brings together collaborators across the four main thematic areas and working groups.
+
+You can find project profile here: [https://www.torontomu.ca/bridging-divides/research/research-projects/citizenship-and-participation/observatory-on-immigration-discourses/](https://www.torontomu.ca/bridging-divides/research/research-projects/citizenship-and-participation/observatory-on-immigration-discourses/)
+
+Visit project website here: [https://observatory.ls3.rnet.torontomu.ca/](https://observatory.ls3.rnet.torontomu.ca/)
+<br/> *<span style="color:green;">Keywords:</span> Information Retrieval, Graph Representation Learning, Generative AI Models, Large Language Models*
 <br/>
 
 ## WISEST (WhIch Systematic Evidence Synthesis is besT)
-This project tends to develop new neural-based models for heterogeneous graph representation learning. For instance, proposed neural architectures are able to perform downstream tasks on dynamic heterogeneous graphs, or to perform subgraph mining in heterogeneous graphs. The findings from this research project are published in top-tier conferences, e.g. CIKM'22, PVLDB'23.
-<br/> *<span style="color:green;">Keywords:</span> Graph Representation Learning, Graph Search, Team Discovery, Dynamic Heterogenous Graph*
+We aimed to develop a FREE and OPEN ACCESS AI model called WISEST (Which Systematic Evidence Synthesis is besT) to predict critical appraisal (i.e. using ROBIS & AMSTAR 2) judgments/ratings of systematic reviews.
+WISEST will be based on empirical research and monitored by experts for accuracy on an ongoing basis.
+The code and supporting text for the AI outputs will be transparently documented.
+
+Our protocol is registered and located on the Open Science Framework at [https://osf.io/nbcta/](https://osf.io/nbcta/)
+
+Visit project website here: [https://wisest.ls3.rnet.torontomu.ca/](https://wisest.ls3.rnet.torontomu.ca/)
+<br/> *<span style="color:green;">Keywords:</span> Natural Language Processing, Systematic Review Analysis*
 <br/>
 
 ## Heterogeneous Graph Representation Learning
