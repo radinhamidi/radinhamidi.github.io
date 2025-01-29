@@ -18,9 +18,11 @@ header:
   og_image: "softwares/spatial_weighting.png"
 ---
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
+Below, you'll find several open-source software packages I’ve developed. Each toolkit addresses different challenges in AI, graph-based analysis, and network representation. Feel free to explore their features, check out the GitHub repositories, and install them directly from PyPI.
 
 # ROKSANA
+![Roksana: Graph-based Keyword Search with GNNs](softwares/roksana.png)
+
 
 [![release-on-version-update](https://github.com/radinhamidi/roksana/actions/workflows/release-on-version-update.yml/badge.svg)](https://github.com/radinhamidi/roksana/actions/workflows/release-on-version-update.yml)
 [![python-publish](https://github.com/radinhamidi/roksana/actions/workflows/python-publish.yml/badge.svg)](https://github.com/radinhamidi/roksana/actions/workflows/python-publish.yml)
@@ -52,6 +54,8 @@ Ready to get started? [Install PyDHNet from Roksana](https://pypi.org/project/RO
 
 
 # PyDHNet
+![PyDHNet: A Python Library for Dynamic Heterogeneous Network Representation Learning and Evaluation](softwares/pydhnet.png)
+
 
 [![PyPI version](https://img.shields.io/pypi/v/pydhnet.svg)](https://pypi.org/project/pydhnet/)
 [![Downloads](https://img.shields.io/pypi/dm/pydhnet.svg)](https://pypi.org/project/pydhnet/)
@@ -78,6 +82,7 @@ Ready to get started? [Install PyDHNet from PyPI](https://pypi.org/project/pydhn
 
 
 # PyTFL
+![PyTFL: A python-based neural team formation toolkit](softwares/pydhnet.png)
 
 [![PyPI version](https://img.shields.io/pypi/v/pytfl.svg)](https://pypi.org/project/pytfl/)
 [![Downloads](https://img.shields.io/pypi/dm/pytfl.svg)](https://pypi.org/project/pytfl/)
