@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Radin Hamidi Rad"
 title_separator          : "-"
 name                     : &name "Radin Hamidi Rad"
-description              : &description "Ph.D. Student"
+description              : &description "Research Scientist"
 url                      : https://radinhamidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "radinhamidi/radinhamidi.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Radin Hamidi Rad"
   avatar           : "profile.png"
-  bio              : "Research scientist at Ryerson University"
+  bio              : "Research Scientist"
   location         : "Toronto, Canada"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-9044-3723"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qu1kNqUAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "radin@ryerson.ca"
+  email            : "radin@torontomu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

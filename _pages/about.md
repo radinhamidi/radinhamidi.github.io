@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-***Hello!*** I am an A.I. researcher persuing my Ph.D. at Ryerson University. My research topics are mostly about graph representaion learning, information retrieval and natural language processing.
-I am also an member of <a href="https://ls3.rnet.ryerson.ca/" target="_blank">Labs for Systems, Software and Semantics at Ryerson University</a>.
+**Hello and welcome!**  
 
-I earned my M.Sc in Computer Engineering and B.Sc. in Electrical Engineering from Amirkabir University of Techonology. You can find my latest list of projects [here](projects.md).
+I’m an AI researcher specializing in graph representation learning, information retrieval, and natural language processing. My work has spanned academia and industry, with a focus on designing intelligent systems that make sense of complex data. During my time at [Labs for Systems, Software, and Semantics](https://ls3.rnet.torontomu.ca/) at Toronto Metropolitan University, I collaborated with a diverse team to explore how machines can better interpret and communicate knowledge.
+
+I hold a Ph.D. in this field from Toronto Metropolitan University and previously earned an M.Sc. in Computer Engineering and a B.Sc. in Electrical Engineering from Amirkabir University of Technology. Along the way, I discovered a passion for blending rigorous research with practical applications that can transform the way we interact with technology.
+
+Feel free to explore my [latest projects](projects.md) to see the ideas I’ve been experimenting with. If you’d like to connect or chat about AI, drop me a line—I’m always excited to discuss new possibilities!
 
 
