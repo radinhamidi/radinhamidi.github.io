@@ -7,6 +7,16 @@ redirect_from:
   - /projects
 ---
 
+## Observatory on Immigration Discourses (IDIO)
+This project tends to develop new neural-based models for heterogeneous graph representation learning. For instance, proposed neural architectures are able to perform downstream tasks on dynamic heterogeneous graphs, or to perform subgraph mining in heterogeneous graphs. The findings from this research project are published in top-tier conferences, e.g. CIKM'22, PVLDB'23.
+<br/> *<span style="color:green;">Keywords:</span> Graph Representation Learning, Graph Search, Team Discovery, Dynamic Heterogenous Graph*
+<br/>
+
+## WISEST (WhIch Systematic Evidence Synthesis is besT)
+This project tends to develop new neural-based models for heterogeneous graph representation learning. For instance, proposed neural architectures are able to perform downstream tasks on dynamic heterogeneous graphs, or to perform subgraph mining in heterogeneous graphs. The findings from this research project are published in top-tier conferences, e.g. CIKM'22, PVLDB'23.
+<br/> *<span style="color:green;">Keywords:</span> Graph Representation Learning, Graph Search, Team Discovery, Dynamic Heterogenous Graph*
+<br/>
+
 ## Heterogeneous Graph Representation Learning
 This project tends to develop new neural-based models for heterogeneous graph representation learning. For instance, proposed neural architectures are able to perform downstream tasks on dynamic heterogeneous graphs, or to perform subgraph mining in heterogeneous graphs. The findings from this research project are published in top-tier conferences, e.g. CIKM'22, PVLDB'23.
 <br/> *<span style="color:green;">Keywords:</span> Graph Representation Learning, Graph Search, Team Discovery, Dynamic Heterogenous Graph*
