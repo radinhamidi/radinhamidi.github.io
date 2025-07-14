@@ -8,6 +8,6 @@ nav_order: 8
 ---
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/radin-rad-utoronto/30min" style="min-width:320px;height:950px;color-scheme:auto;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/radin-rad-utoronto/30min" style="min-width:320px;height:950px;color-scheme:dark;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
