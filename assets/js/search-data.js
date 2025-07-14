@@ -397,18 +397,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-m-excited-to-share-that-i-ve-started-a-postdoctoral-fellowship-at-the-university-of-toronto-where-i-ll-be-continuing-my-research-in-adversarial-information-retrieval-looking-forward-to-new-collaborations-and-challenges-in-this-next-chapter",
+          title: 'I’m excited to share that I’ve started a Postdoctoral Fellowship at the University...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-thrilled-to-announce-that-our-paper-roksana-an-open-source-toolkit-for-robust-graph-based-keyword-search-has-been-accepted-at-sigir-2025-this-work-introduces-a-new-toolkit-to-support-robust-keyword-search-in-graphs-and-attacks-on-it-see-you-in-pedua-italy",
+          title: 'Thrilled to announce that our paper “ROKSANA: An Open-Source Toolkit for Robust Graph-Based...',
+          description: "",
+          section: "News",},{id: "news-announcement-caisi",
+          title: 'Announcement_caisi',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-wisest-which-systematic-evidence-synthesis-is-best",
+              window.location.href = "/news/announcement_caisi/";
+            },},{id: "projects-wisest-which-systematic-evidence-synthesis-is-best",
           title: 'WISEST (WhIch Systematic Evidence Synthesis is besT)',
           description: "AI-powered quality assessment of systematic reviews (2023-2025)",
           section: "Projects",handler: () => {
