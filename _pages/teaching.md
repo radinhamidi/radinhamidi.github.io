@@ -8,10 +8,10 @@ nav_order: 6
 ---
 
 
-# Courses Taught
+## Courses Taught
 
-## University of Toronto
-- **INF1343H – Data Modeling and Database Design**  
+### University of Toronto
+- **INF1343H – Data Modeling and Database Design** <span class="badge bg-success text-dark">Upcoming</span>  
   *Sessional Lecturer*, Faculty of Information  
   _Fall 2025_
 
@@ -19,9 +19,9 @@ nav_order: 6
   *Sessional Lecturer*, Faculty of Information  
   _Winter 2025_
 
-# Teaching Assistant
+## Teaching Assistant
 
-## Toronto Metropolitan University / Ryerson University
+### Toronto Metropolitan University / Ryerson University
 
 - **ITM618 – Business Intelligence and Analytics**  
   *Teaching Assistant*, Ted Rogers School of Management, Dr. Mehdi Kargar  
@@ -56,7 +56,7 @@ nav_order: 6
   _Fall 2019_
 
 
-## Amirkabir University of Technology
+### Amirkabir University of Technology
 
 - **Machine Learning**  
   *Teaching Assistant*, Department of Computer Engineering, Dr. Ehsan Nazerfard  

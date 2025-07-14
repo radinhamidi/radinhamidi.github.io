@@ -28,9 +28,8 @@ latest_posts:
 Welcome to my personal webpage! I am currently a Postdoctoral Researcher at the University of Toronto, where I explore advanced topics in adversarial information retrieval models. My research focuses on understanding vulnerabilities and developing robust retrieval systems capable of resisting adversarial manipulation.
 
 ### Research Interests
-<ul style="margin-left: 10px;">
-  <li>Adversarial Machine Learning</li>
-  <li>Information Retrieval and Search Systems</li>
-  <li>Graph Representation Learning</li>
-  <li>Robustness and Security in AI</li>
-</ul>
+
+Adversarial Machine Learning  
+Information Retrieval and Search Systems  
+Graph Representation Learning  
+Robustness and Security in AI
