@@ -403,12 +403,10 @@ ninja.data = [{
           section: "News",},{id: "news-thrilled-to-announce-that-our-paper-roksana-an-open-source-toolkit-for-robust-graph-based-keyword-search-has-been-accepted-at-sigir-2025-this-work-introduces-a-new-toolkit-to-support-robust-keyword-search-in-graphs-and-attacks-on-it-see-you-in-pedua-italy",
           title: 'Thrilled to announce that our paper “ROKSANA: An Open-Source Toolkit for Robust Graph-Based...',
           description: "",
-          section: "News",},{id: "news-announcement-caisi",
-          title: 'Announcement_caisi',
+          section: "News",},{id: "news-honored-to-be-awarded-a-100-000-research-grant-from-the-canadian-artificial-intelligence-safety-institute-caisi-for-2025-2026-this-funding-supports-our-work-on-advancing-safe-and-responsible-ai-systems-grateful-for-the-support-and-looking-forward-to-impactful-progress",
+          title: 'Honored to be awarded a $100,000 research grant from the Canadian Artificial Intelligence...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_caisi/";
-            },},{id: "projects-wisest-which-systematic-evidence-synthesis-is-best",
+          section: "News",},{id: "projects-wisest-which-systematic-evidence-synthesis-is-best",
           title: 'WISEST (WhIch Systematic Evidence Synthesis is besT)',
           description: "AI-powered quality assessment of systematic reviews (2023-2025)",
           section: "Projects",handler: () => {
