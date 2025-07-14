@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - radinhamidi
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - radinhamidi/wisest
+  - radinhamidi/roksana
+  - radinhamidi/A-Robust-Neural-Approach-for-Searching-over-Incomplete-Graphs
+  - radinhamidi/A-Variational-Neural-Architecture-for-Skill-based-Team-Formation
+  - radinhamidi/WISEST-Annotation-Platform
+  - radinhamidi/Subgraph-Representation-Learning-for-Team-Mining
+  - radinhamidi/Team_Formation_Library
+  - radinhamidi/Retrieving-Skill-Based-Teams-from-Collaboration-Networks
