@@ -403,7 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-i-ll-be-teaching-inf2204-digital-connectivity-for-information-systems-foundation-innovation-and-challenges-in-winter-2025-at-the-university-of-toronto-s-faculty-of-information-ischool",
           title: 'Excited to share that I’ll be teaching INF2204 – Digital Connectivity for Information...',
           description: "",
-          section: "News",},{id: "news-our-paper-roksana-an-open-source-toolkit-for-robust-graph-based-keyword-search-has-been-accepted-at-sigir-2025-this-work-introduces-a-new-toolkit-to-support-robust-keyword-search-in-graphs-and-attacks-on-it-see-you-in-pedua-italy",
+          section: "News",},{id: "news-our-paper-roksana-an-open-source-toolkit-for-robust-graph-based-keyword-search-has-been-accepted-at-sigir-2025-this-work-introduces-a-new-toolkit-to-support-robust-keyword-search-in-graphs-and-attacks-on-it-see-you-in-padua-italy",
           title: 'Our paper “ROKSANA: An Open-Source Toolkit for Robust Graph-Based Keyword Search” has been...',
           description: "",
           section: "News",},{id: "news-honored-to-be-awarded-a-100-000-research-grant-from-the-canadian-artificial-intelligence-safety-institute-caisi-for-2025-2026-this-funding-supports-our-work-on-advancing-safe-and-responsible-ai-systems-grateful-for-the-support-and-looking-forward-to-impactful-progress",
