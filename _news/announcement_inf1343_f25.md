@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that I’ll be teaching INF1343 – Introduction to Information Systems this Fall 2025 at the Faculty of Information, University of Toronto (iSchool).
+Excited to share that I’ll be teaching INF1343 – Data Modeling and Database Design in Fall 2025 at the Faculty of Information, University of Toronto (iSchool).

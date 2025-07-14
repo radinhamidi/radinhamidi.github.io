@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that I’ll be teaching INF2204 – Digital Connectivity for Information Systems: Foundation, Innovation and Challenges this Winter 2025 at the University of Toronto’s Faculty of Information (iSchool). 
+Excited to share that I’ll be teaching INF2204 – Digital Connectivity for Information Systems: Foundation, Innovation and Challenges in Winter 2025 at the University of Toronto’s Faculty of Information (iSchool). 
