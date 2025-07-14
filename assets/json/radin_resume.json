@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Radin Hamidi Rad",
+    "label": "Postdoctoral Fellow and Researcher",
+    "image": "",
+    "email": "radin.rad@utoronto.ca",
+    "phone": "+1 (647) 677-8313",
+    "url": "https://radinhamidi.github.io",
+    "summary": "Researcher in Information Retrieval, Graph Processing, and Responsible AI with extensive experience in neural architectures, semantic search, and natural language processing.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "radin-rad",
+        "url": "https://www.linkedin.com/in/radin-rad"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "qu1kNqUAAAAJ",
+        "url": "https://scholar.google.ca/citations?hl=en&user=qu1kNqUAAAAJ"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "University of Toronto",
+      "position": "Postdoctoral Fellow and Sessional Lecturer",
+      "url": "https://www.utoronto.ca",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Researching Adversarial Information Retrieval and teaching graduate courses.",
+      "highlights": [
+        "Designed innovative course materials",
+        "Mentored students in information systems"
+      ]
+    },
+    {
+      "name": "Microsoft Research",
+      "position": "AI Research Intern",
+      "url": "https://www.microsoft.com/en-us/research/",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "Developed AI models for question tagging and routing in CQA platforms.",
+      "highlights": [
+        "Worked under Dr. Silviu Cucerzan and Nirupama Chandrasekaran"
+      ]
+    },
+    {
+      "name": "Vector Institute",
+      "position": "Applied Machine Learning Intern",
+      "url": "https://vectorinstitute.ai",
+      "startDate": "2022-01-01",
+      "endDate": "2022-04-01",
+      "summary": "Developed language models for conversational QA.",
+      "highlights": [
+        "Mentored by Dr. Elham Dolatabadi"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Toronto Metropolitan University",
+      "url": "https://www.torontomu.ca/",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2019-01-01",
+      "endDate": "2024-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Amirkabir University of Technology",
+      "url": "https://aut.ac.ir",
+      "area": "Computer Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Amirkabir University of Technology",
+      "url": "https://aut.ac.ir",
+      "area": "Electrical Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Artificial Intelligence",
+      "level": "Advanced",
+      "keywords": [
+        "Deep Learning",
+        "Explainable AI",
+        "Semantic Search",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "Graph Processing",
+      "level": "Advanced",
+      "keywords": [
+        "Graph Neural Networks",
+        "Subgraph Search",
+        "Heterogeneous Graphs"
+      ]
+    },
+    {
+      "name": "Big Data",
+      "level": "Advanced",
+      "keywords": [
+        "Data Analytics",
+        "Scalable Systems"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Farsi",
+      "fluency": "Native speaker"
+    }
+  ]
+}
