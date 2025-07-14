@@ -51,8 +51,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-book-an-appointment",
-          title: "book an appointment",
+        },{id: "nav-calendar",
+          title: "calendar",
           description: "Schedule a 30-minute meeting with me.",
           section: "Navigation",
           handler: () => {
