@@ -1,6 +1,6 @@
 ---
 layout: page
-title: book an appointment
+title: calendar
 permalink: /appointment/
 description: Schedule a 30-minute meeting with me.
 nav: true
