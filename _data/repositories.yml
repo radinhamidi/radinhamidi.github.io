@@ -4,7 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - radinhamidi/wisest
   - radinhamidi/roksana
   - radinhamidi/A-Robust-Neural-Approach-for-Searching-over-Incomplete-Graphs
   - radinhamidi/A-Variational-Neural-Architecture-for-Skill-based-Team-Formation
@@ -12,3 +11,4 @@ github_repos:
   - radinhamidi/Subgraph-Representation-Learning-for-Team-Mining
   - radinhamidi/Team_Formation_Library
   - radinhamidi/Retrieving-Skill-Based-Teams-from-Collaboration-Networks
+  - radinhamidi/Hybrid_Forest
