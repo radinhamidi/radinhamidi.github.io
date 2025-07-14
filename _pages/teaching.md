@@ -10,6 +10,7 @@ nav_order: 6
 
 ## Courses Taught
 
+
 ### University of Toronto
 - **INF1343H – Data Modeling and Database Design** <span class="badge rounded-pill bg-success">Upcoming</span>  
   *Sessional Lecturer*, Faculty of Information  
@@ -20,6 +21,7 @@ nav_order: 6
   _Winter 2025_
 
 ## Teaching Assistant
+
 
 ### Toronto Metropolitan University / Ryerson University
 
