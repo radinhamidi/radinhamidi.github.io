@@ -4,7 +4,7 @@
     "label": "Postdoctoral Fellow and Researcher",
     "image": "",
     "email": "radin.rad@utoronto.ca",
-    "phone": "+1 (647) 677-8313",
+    "phone": "",
     "url": "https://radinhamidi.github.io",
     "summary": "Researcher in Information Retrieval, Graph Processing, and Responsible AI with extensive experience in neural architectures, semantic search, and natural language processing.",
     "location": {
@@ -132,6 +132,137 @@
     {
       "language": "Farsi",
       "fluency": "Native speaker"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Canadian Artificial Intelligence Safety Institute (CAISI) Grant",
+      "date": "2025-01-01",
+      "awarder": "CAISI",
+      "summary": "$100,000 research grant for work on responsible AI."
+    },
+    {
+      "title": "Queen Elizabeth II Graduate Scholarship in Science & Technology",
+      "date": "2022-01-01",
+      "awarder": "Toronto Metropolitan University",
+      "summary": "$15,000 awarded for graduate research excellence."
+    },
+    {
+      "title": "Graduate Scholarship",
+      "date": "2019-01-01",
+      "awarder": "Toronto Metropolitan University",
+      "summary": "$30,000 total awarded over 5 years for academic merit."
+    },
+    {
+      "title": "Graduate Development Award",
+      "date": "2019-01-01",
+      "awarder": "Toronto Metropolitan University",
+      "summary": "$12,000 for academic development."
+    },
+    {
+      "title": "Mitacs Research Training Award",
+      "date": "2020-01-01",
+      "awarder": "Mitacs",
+      "summary": "$6,000 for industry-linked AI research training."
+    },
+    {
+      "title": "International Student Scholarship",
+      "date": "2020-01-01",
+      "awarder": "Toronto Metropolitan University",
+      "summary": "$7,000 awarded for academic achievement."
+    },
+    {
+      "title": "FEAS Graduate Funding Award",
+      "date": "2019-01-01",
+      "awarder": "Toronto Metropolitan University",
+      "summary": "$6,000 for faculty-level research support."
+    },
+    {
+      "title": "Top-10 Graduate Student Ranking",
+      "date": "2018-01-01",
+      "awarder": "Amirkabir University of Technology",
+      "summary": "Ranked among the top-10 graduate students in the department."
+    },
+    {
+      "title": "2nd Place - NADCO National Robotic Contest",
+      "date": "2010-01-01",
+      "awarder": "NADCO",
+      "summary": "Awarded 2nd place in the national robotics competition."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ACM SIGIR Conference",
+      "position": "Program Committee Member",
+      "url": "https://sigir.org",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Served as a PC member for the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval.",
+      "highlights": []
+    },
+    {
+      "organization": "ACM Web Science Conference",
+      "position": "Program Committee Member",
+      "url": "https://websci.org",
+      "startDate": "2022-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Served multiple times as a PC member and reviewer for the ACM Web Science Conference.",
+      "highlights": []
+    },
+    {
+      "organization": "ACM RecSys Conference",
+      "position": "Program Committee Member",
+      "url": "https://recsys.acm.org",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "summary": "Served as a PC member for RecSys 2024.",
+      "highlights": []
+    },
+    {
+      "organization": "AAAI Conference",
+      "position": "Reviewer",
+      "url": "https://aaai.org",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Reviewed papers for the 37th AAAI Conference on Artificial Intelligence.",
+      "highlights": []
+    }
+  ],
+  "publications": [
+    {
+      "name": "ROKSANA: An Open-Source Toolkit for Robust Graph-Based Keyword Search",
+      "publisher": "SIGIR 2025",
+      "releaseDate": "2025-07-01",
+      "url": "",
+      "summary": "Presented at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval."
+    },
+    {
+      "name": "A Variational Neural Architecture for Skill-based Team Formation",
+      "publisher": "ACM TOIS",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": "Published in ACM Transactions on Information Systems."
+    },
+    {
+      "name": "Robust Neural Model for Searching over Graphs with Missing Values",
+      "publisher": "ACM TIST",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": "Published in ACM Transactions on Intelligent Systems and Technology."
+    },
+    {
+      "name": "Learning Heterogeneous Subgraph Representations for Team Discovery",
+      "publisher": "Information Retrieval Journal",
+      "releaseDate": "2023-01-01",
+      "url": "",
+      "summary": "Explores representation learning for heterogeneous subgraphs."
+    },
+    {
+      "name": "DyHNet: Learning Dynamic Heterogeneous Network Representations",
+      "publisher": "Information Sciences Journal",
+      "releaseDate": "2023-01-01",
+      "url": "",
+      "summary": "Published in ISJ with focus on dynamic heterogeneous graphs."
     }
   ]
 }
