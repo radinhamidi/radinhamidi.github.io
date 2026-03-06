@@ -409,7 +409,7 @@ ninja.data = [{
           section: "News",},{id: "news-honored-to-be-awarded-a-100-000-research-grant-from-the-canadian-artificial-intelligence-safety-institute-caisi-for-2025-2026-this-funding-supports-our-work-on-advancing-safe-and-responsible-ai-systems-grateful-for-the-support-and-looking-forward-to-impactful-progress",
           title: 'Honored to be awarded a $100,000 research grant from the Canadian Artificial Intelligence...',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-i-ll-be-teaching-inf1343-data-modeling-and-database-design-in-fall-2025-at-the-faculty-of-information-university-of-toronto-ischool",
+          section: "News",},{id: "news-excited-to-share-that-i-ll-be-teaching-inf1343-data-modeling-and-database-design-in-winter-2026-at-the-faculty-of-information-university-of-toronto-ischool",
           title: 'Excited to share that I’ll be teaching INF1343 – Data Modeling and Database...',
           description: "",
           section: "News",},{id: "projects-wisest-which-systematic-evidence-synthesis-is-best",
