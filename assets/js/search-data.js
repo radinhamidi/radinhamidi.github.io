@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Research programs and systems I lead or contribute to.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "You can find some of my GitHub repositories here. Please check my Github page for full list of repositories.",
+          description: "Open-source toolkits, datasets, and research code from my work. See my GitHub profile for the full list.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -51,353 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/appointment/";
           },
-        },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/tabs/";
-          
-        },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
-          
-        },
-      },{id: "post-a-post-that-can-be-cited",
-        
-          title: "a post that can be cited",
-        
-        description: "this is what a post that can be cited looks like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/post-citation/";
-          
-        },
-      },{id: "post-a-post-with-pseudo-code",
-        
-          title: "a post with pseudo code",
-        
-        description: "this is what included pseudo code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
-      },{id: "post-a-post-with-code-diff",
-        
-          title: "a post with code diff",
-        
-        description: "this is how you can display code diffs",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/code-diff/";
-          
-        },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
-          
-        },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-tikzjax",
-        
-          title: "a post with TikZJax",
-        
-        description: "this is what included TikZ code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
-          
-        },
-      },{id: "post-a-post-with-redirect",
-        
-          title: "a post with redirect",
-        
-        description: "you can also redirect to assets like pdf",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/assets/pdf/radin_resume.pdf";
-          
-        },
-      },{id: "post-a-post-with-diagrams",
-        
-          title: "a post with diagrams",
-        
-        description: "an example of a blog post with diagrams",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/diagrams/";
-          
-        },
-      },{id: "post-a-distill-style-blog-post",
-        
-          title: "a distill-style blog post",
-        
-        description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/distill/";
-          
-        },
-      },{id: "post-a-post-with-twitter",
-        
-          title: "a post with twitter",
-        
-        description: "an example of a blog post with twitter",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/twitter/";
-          
-        },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/disqus-comments/";
-          
-        },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
-          
-        },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-excited-to-share-that-i-ve-started-a-postdoctoral-fellowship-at-the-university-of-toronto-where-i-ll-be-continuing-my-research-in-adversarial-information-retrieval-looking-forward-to-new-collaborations-and-challenges-in-this-next-chapter",
+        },{id: "news-i-m-excited-to-share-that-i-ve-started-a-postdoctoral-fellowship-at-the-university-of-toronto-where-i-ll-be-continuing-my-research-in-adversarial-information-retrieval-looking-forward-to-new-collaborations-and-challenges-in-this-next-chapter",
           title: 'I’m excited to share that I’ve started a Postdoctoral Fellowship at the University...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-i-ll-be-teaching-inf2204-digital-connectivity-for-information-systems-foundation-innovation-and-challenges-in-winter-2025-at-the-university-of-toronto-s-faculty-of-information-ischool",
@@ -412,24 +66,42 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-i-ll-be-teaching-inf1343-data-modeling-and-database-design-in-winter-2026-at-the-faculty-of-information-university-of-toronto-ischool",
           title: 'Excited to share that I’ll be teaching INF1343 – Data Modeling and Database...',
           description: "",
-          section: "News",},{id: "projects-wisest-which-systematic-evidence-synthesis-is-best",
-          title: 'WISEST (WhIch Systematic Evidence Synthesis is besT)',
-          description: "AI-powered quality assessment of systematic reviews (2023-2025)",
+          section: "News",},{id: "news-we-presented-our-tutorial-query-expansion-revisited-from-classical-retrieval-to-agentic-search-at-cikm-2026-tracing-query-expansion-from-classical-techniques-to-today-s-llm-based-and-agentic-search-systems-the-slides-are-available-here",
+          title: 'We presented our tutorial “Query Expansion Revisited: From Classical Retrieval to Agentic Search”...',
+          description: "",
+          section: "News",},{id: "projects-agentic-deep-search-and-iterative-retrieval",
+          title: 'Agentic Deep Search and Iterative Retrieval',
+          description: "Agentic systems that search, read, and reason over multiple steps (2026–present)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/01_agentic_deep_search/";
+            },},{id: "projects-open-research-infrastructure-for-agentic-retrieval",
+          title: 'Open Research Infrastructure for Agentic Retrieval',
+          description: "Open tools for building, reproducing, and evaluating retrieval pipelines (2026–present)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/02_open_retrieval_infrastructure/";
+            },},{id: "projects-llm-safety-and-adversarial-robustness",
+          title: 'LLM Safety and Adversarial Robustness',
+          description: "Attacks, evaluation resources, and defences for LLMs, rankers, and graph retrieval (2025–present)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/03_llm_safety_robustness/";
+            },},{id: "projects-wisest-human-centred-evidence-synthesis",
+          title: 'WISEST: Human-Centred Evidence Synthesis',
+          description: "Explainable AI for assessing systematic reviews (2023–2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_wisest/";
             },},{id: "projects-data-observatory",
           title: 'Data Observatory',
-          description: "AI-enabled infrastructure for systematic data collection &amp; text analysis (2024-2025)",
+          description: "AI-enabled infrastructure for systematic data collection &amp; text analysis (2024–2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_data_observatory/";
             },},{id: "projects-heterogeneous-graph-representation-learning",
           title: 'Heterogeneous Graph Representation Learning',
-          description: "Neural architectures for dynamic heterogeneous graphs (2022-2024)",
+          description: "Neural architectures for dynamic, heterogeneous, and incomplete graphs (2022–2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_heterogeneous_graph/";
             },},{id: "projects-team-formation",
           title: 'Team Formation',
-          description: "Graph search &amp; GNN models for expert team assembly (2019-2022)",
+          description: "Graph search &amp; neural models for expert team assembly (2019–2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_team_formation/";
             },},{
@@ -466,13 +138,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-9044-3723", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
