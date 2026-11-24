@@ -31,12 +31,7 @@
     {
       "name": "AI and Language",
       "level": "",
-      "keywords": [
-        "Generative AI and large language models",
-        "Natural language processing",
-        "Explainable and trustworthy AI",
-        "Deep Learning"
-      ]
+      "keywords": ["Generative AI and large language models", "Natural language processing", "Explainable and trustworthy AI", "Deep Learning"]
     },
     {
       "name": "Search and Retrieval",
@@ -51,27 +46,17 @@
     {
       "name": "Graphs",
       "level": "",
-      "keywords": [
-        "Graph representation learning and graph search",
-        "Graph Neural Networks",
-        "Subgraph Search",
-        "Heterogeneous Graphs"
-      ]
+      "keywords": ["Graph representation learning and graph search", "Graph Neural Networks", "Subgraph Search", "Heterogeneous Graphs"]
     },
     {
       "name": "Safety",
       "level": "",
-      "keywords": [
-        "Adversarial robustness and AI safety"
-      ]
+      "keywords": ["Adversarial robustness and AI safety"]
     },
     {
       "name": "Big Data",
       "level": "",
-      "keywords": [
-        "Data Analytics",
-        "Scalable Systems"
-      ]
+      "keywords": ["Data Analytics", "Scalable Systems"]
     }
   ],
   "work": [
@@ -93,9 +78,7 @@
       "startDate": "2025-08",
       "endDate": "2026-08",
       "summary": "Research on adversarial robustness in information retrieval, knowledge graphs, and LLM-based systems.",
-      "highlights": [
-        "Postdoctoral fellow on the CAD 100,000 CAISI Catalyst Grant project Adversarial Robustness in Knowledge Graphs."
-      ]
+      "highlights": ["Postdoctoral fellow on the CAD 100,000 CAISI Catalyst Grant project Adversarial Robustness in Knowledge Graphs."]
     },
     {
       "name": "University of Toronto",
@@ -115,9 +98,7 @@
       "startDate": "2022-06",
       "endDate": "2022-08",
       "summary": "Developed neural NLP methods for interactive topic tagging and routing in community question-answering systems; the work was published at ECIR 2024.",
-      "highlights": [
-        "Mentors: Silviu Cucerzan and Nirupama Chandrasekaran."
-      ]
+      "highlights": ["Mentors: Silviu Cucerzan and Nirupama Chandrasekaran."]
     },
     {
       "name": "Vector Institute",
@@ -127,9 +108,7 @@
       "startDate": "2022-01",
       "endDate": "2022-04",
       "summary": "Developed and evaluated language-model pipelines for conversational question answering.",
-      "highlights": [
-        "Mentor: Elham Dolatabadi."
-      ]
+      "highlights": ["Mentor: Elham Dolatabadi."]
     }
   ],
   "education": [
@@ -154,10 +133,7 @@
       "startDate": "2017",
       "endDate": "2019",
       "score": "",
-      "courses": [
-        "Thesis: Multi-Layer Graph-Based Recommender Systems.",
-        "Supervisor: Maryam Amir Haeri."
-      ]
+      "courses": ["Thesis: Multi-Layer Graph-Based Recommender Systems.", "Supervisor: Maryam Amir Haeri."]
     },
     {
       "institution": "Amirkabir University of Technology",
@@ -167,10 +143,7 @@
       "startDate": "2012",
       "endDate": "2016",
       "score": "",
-      "courses": [
-        "Thesis: Synchronizing Robot Arm With Human Arm Moves Using KINECT.",
-        "Supervisor: Saeed Sharifian."
-      ]
+      "courses": ["Thesis: Synchronizing Robot Arm With Human Arm Moves Using KINECT.", "Supervisor: Saeed Sharifian."]
     }
   ],
   "teaching": [
@@ -180,9 +153,7 @@
       "startDate": "2026-01",
       "endDate": "2026-04",
       "summary": "Sessional Lecturer, Faculty of Information, University of Toronto. Graduate course, approximately 70 students.",
-      "highlights": [
-        "Designed the syllabus, lectures, assignments, projects, and grading rubrics; delivered the course in person."
-      ]
+      "highlights": ["Designed the syllabus, lectures, assignments, projects, and grading rubrics; delivered the course in person."]
     },
     {
       "name": "INF2204H: Digital Connectivity for Information Systems",
@@ -190,9 +161,7 @@
       "startDate": "2025-01",
       "endDate": "2025-04",
       "summary": "Sessional Lecturer, Faculty of Information, University of Toronto. Graduate course, approximately 25 students.",
-      "highlights": [
-        "Designed and delivered course materials, including lectures and assignments, and provided student mentorship."
-      ]
+      "highlights": ["Designed and delivered course materials, including lectures and assignments, and provided student mentorship."]
     },
     {
       "name": "Teaching and Graduate Assistantships",
@@ -235,9 +204,7 @@
       "startDate": "2025",
       "endDate": "",
       "summary": "Failure modes of aligned LLMs and retrieval systems through prompt-embedding optimization, adversarial content injection against neural rankers, graph poisoning, and adversarial edge perturbation.",
-      "highlights": [
-        "Combines attacks, evaluation resources, and evidence for robust system design."
-      ]
+      "highlights": ["Combines attacks, evaluation resources, and evidence for robust system design."]
     },
     {
       "name": "WISEST: Human-Centred Evidence Synthesis",
@@ -255,9 +222,7 @@
       "startDate": "2019",
       "endDate": "2025",
       "summary": "Neural representations and retrieval methods for complete and incomplete heterogeneous graphs, with applications to subgraph search, expert-team formation, and recommendation.",
-      "highlights": [
-        "Released research software including ROKSANA, PyTFL, and PyDHNet."
-      ]
+      "highlights": ["Released research software including ROKSANA, PyTFL, and PyDHNet."]
     }
   ],
   "awards": [
