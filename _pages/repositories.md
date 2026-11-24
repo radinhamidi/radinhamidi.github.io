@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: You can find some of my GitHub repositories here. Please check my Github page for full list of repositories.
+description: Open-source toolkits, datasets, and research code from my work. See my GitHub profile for the full list.
 nav: true
 nav_order: 4
 ---

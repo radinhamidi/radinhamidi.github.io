@@ -1,15 +1,14 @@
 ---
 layout: page
 title: "Data Observatory"
-description: "AI-enabled infrastructure for systematic data collection & text analysis (2024-2025)"
+description: "AI-enabled infrastructure for systematic data collection & text analysis (2024–2025)"
 img: assets/img/data-observatory.jpg  # TODO: update with project-specific image
-importance: 1
-category: work
-giscus_comments: true
+importance: 5
+category: past
 ---
 
 ### Overview
-Data Observatory is a government-funded initiative designed to empower social-science researchers across Canada (2024-2025). The project establishes a comprehensive framework for systematic data collection and processing, leveraging state-of-the-art AI to surface insights that drive solutions to complex social challenges.
+Data Observatory is a government-funded initiative designed to empower social-science researchers across Canada (2024–2025). The project establishes a comprehensive framework for systematic data collection and processing, leveraging state-of-the-art AI to surface insights that drive solutions to complex social challenges.
 
 ### Key Features
 * Automated, large-scale data collection pipelines covering diverse social-media, news, and open-data sources.

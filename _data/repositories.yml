@@ -4,11 +4,19 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  # agentic search and retrieval infrastructure
+  - ls3-lab/QueryGym
+  - radinhamidi/Question-s-Gambit
+  # graph robustness
   - radinhamidi/roksana
   - radinhamidi/A-Robust-Neural-Approach-for-Searching-over-Incomplete-Graphs
-  - radinhamidi/A-Variational-Neural-Architecture-for-Skill-based-Team-Formation
+  # evidence synthesis
   - radinhamidi/WISEST-Annotation-Platform
+  - radinhamidi/WISEST-QA-Dataset
+  # team formation
+  - radinhamidi/A-Variational-Neural-Architecture-for-Skill-based-Team-Formation
   - radinhamidi/Subgraph-Representation-Learning-for-Team-Mining
   - radinhamidi/Team_Formation_Library
   - radinhamidi/Retrieving-Skill-Based-Teams-from-Collaboration-Networks
+  # earlier work
   - radinhamidi/Hybrid_Forest

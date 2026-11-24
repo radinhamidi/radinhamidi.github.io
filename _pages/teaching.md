@@ -12,13 +12,25 @@ nav_order: 6
 
 
 ### University of Toronto
-- **INF1343H – Data Modeling and Database Design** <span class="badge rounded-pill bg-success">Upcoming</span>  
+- **INF1343H – Data Modeling and Database Design**  
   *Sessional Lecturer*, Faculty of Information  
-  _Fall 2025_
+  _Winter 2026_
 
 - **INF2204H – Digital Connectivity for Information Systems**  
   *Sessional Lecturer*, Faculty of Information  
   _Winter 2025_
+
+## Workshops
+
+
+### University of Toronto
+- **Intro to Database Design and SQL**  
+  *Workshop Instructor*, Faculty of Information  
+  _Summer 2026, Winter 2026_
+
+- **Advanced SQL**  
+  *Workshop Instructor*, Faculty of Information  
+  _Summer 2026, Winter 2026_
 
 ## Teaching Assistant
 
